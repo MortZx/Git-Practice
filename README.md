@@ -24,3 +24,4 @@ conflicting change fixed during merge.
 		* tags 
 * Tags
 * Issues
+* Gists
