@@ -2,9 +2,8 @@
 
 A repo for practicing git commands and version control.
 
-conflicting change fixed during merge.
 
-## Work Log
+## Work Log - _COMPLETED_
 * Git basics 
 	* states
 	* commits & comments
@@ -25,3 +24,4 @@ conflicting change fixed during merge.
 * Tags
 * Issues
 * Gists
+* Organisations
